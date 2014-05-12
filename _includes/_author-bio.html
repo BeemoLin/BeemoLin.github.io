@@ -1,10 +1,3 @@
-{% if site.owner.avatar contains 'http://' %}
-	<img src="{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
-{% elsif site.owner.avatar contains 'https://' %}
-	<img src="{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
-{% else %}
-	<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo"></a>
-{% endif %}
 <img src="http://www.gravatar.com/avatar/{{site.owner.email_md5}}?s=150" class="bio-photo" alt="{{ site.owner.name }}" />
 <h3>{{ site.owner.name }}</h3>
 <p>{{ site.owner.bio }}</p>
