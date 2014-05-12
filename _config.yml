@@ -1,7 +1,7 @@
 title:            Site Title
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://192.168.1.100:4000
+url:              http://cameogen.github.io
 disqus_shortname:
 
 # Owner/author information
