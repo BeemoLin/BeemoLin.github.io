@@ -10,6 +10,7 @@ owner:
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
   email:          dteout@gmail.com
+  email_md5:      cfcf6d9d0a8d4aa9164393386d939c58
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:       cameogen
