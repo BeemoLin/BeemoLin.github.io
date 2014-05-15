@@ -1,7 +1,7 @@
 ---
-layout: post_page
+layout: post
 title: "Heroku database reset"
-description: ""
+description: "rake db:setup doesn't work with Rails 4, it fails with a "Couldn't create database error"."
 tags: [Heroku, Rails]
 comments: true
 ---
