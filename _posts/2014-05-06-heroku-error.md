@@ -9,7 +9,7 @@ comments: true
 
 To drop the database, if you are using SHARED_DATABASE_URL:
 
-{% highlight console %}
+{% highlight %}
 
 heroku pg:reset DATABASE
 
@@ -17,7 +17,7 @@ heroku pg:reset DATABASE
 
 To recreate the database with nothing in it:
 
-{% highlight console %}
+{% highlight %}
 
 heroku run rake db:migrate
 
@@ -25,7 +25,7 @@ heroku run rake db:migrate
 
 To populate the database with your seed data:
 
-{% highlight console %}
+{% highlight %}
 
 heroku run rake db:seed
 
@@ -33,7 +33,7 @@ heroku run rake db:seed
 
 You can combine the last two into one action by executing this:
 
-{% highlight console %}
+{% highlight %}
 
 heroku run rake db:setup
 
