@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heroku_database_reset
-description: "rake db:setup doesn't work with Rails 4, it fails with a "Couldn't create database error"."
+description: "rake db:setup doesn't work with Rails 4, it fails with a Couldn't create database error."
 tags: [Heroku, Rails]
 comments: true
 ---
