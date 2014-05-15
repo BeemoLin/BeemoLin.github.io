@@ -1,6 +1,9 @@
 ---
 layout: post_page
-title: PostgreSQL
+title: "PostgreSQL"
+description: ""
+tags: [jekyll, images, test]
+comments: true
 ---
 Here are the steps I followed:
 

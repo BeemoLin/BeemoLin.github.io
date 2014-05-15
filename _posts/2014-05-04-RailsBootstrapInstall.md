@@ -1,6 +1,9 @@
 ---
-layout: post_page
+layout: post
 title: Rails_bootstrap_install
+description: ""
+tags: [install, Rails]
+comments: true
 ---
 # Rails 專案設定 bootstrap 與 simple_form
 

@@ -1,6 +1,9 @@
 ---
 layout: post_page
-title: Heroku database reset
+title: "Heroku database reset"
+description: ""
+tags: [Heroku, Rails]
+comments: true
 ---
 [How to empty DB in heroku](http://stackoverflow.com/questions/4820549/how-to-empty-db-in-heroku)
 <p>
