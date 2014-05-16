@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll disqus
+title: use disqus in jekyll
 description: "How to setting jekyll disqus"
 modified: 2013-05-31
 tags: [post, jekyll]
