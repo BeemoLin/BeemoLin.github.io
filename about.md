@@ -6,9 +6,9 @@ tags: [about]
 modified: 25-5-2013
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: texture-feature-01.jpg
+  credit: lambdadelta
+  creditlink: http://www.zerochan.net/1644699
 ---
 
 ### 林建玄(Gen Lin)
