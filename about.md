@@ -13,9 +13,8 @@ image:
 
 ### 林建玄(Gen Lin)
 
-Asia/Taiwan
-
-<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+* Asia/Taiwan
+* <a href="http://github.com/{{ site.owner.github }}" target="_blank" style="text-decoration: none;"><i class="icon-github"></i> Github</a>
 
 ### Expertise
 * C# winform Application Program
