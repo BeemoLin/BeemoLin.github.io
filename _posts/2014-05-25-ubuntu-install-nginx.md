@@ -1,0 +1,31 @@
+---
+layout: post
+title: How to instll nginx on buntu
+description: ""
+modified: 2013-05-25
+tags: [nginx, server]
+comments: true
+---
+
+How to install nginx on ubuntu
+=======
+
+#My machine OS version is ubuntu Server 14.04 LTS
+
+##Setting repository and install.
+`sudo -s
+nginx=stable # use nginx=development for latest development version
+add-apt-repository ppa:nginx/$nginx
+apt-get update
+apt-get install nginx`
+
+## Notices
+##if you machine return error like this.
+`add-apt-repository: command not found`
+
+##You must install apt plugin before you can add repository.
+`sudo apt-get install software-properties-common`
+{: .notice}
+
+Reference document:
+<div markdown="0"><a href="http://wiki.nginx.org/Install" class="btn btn-info">Nginx wiki</a></div>
