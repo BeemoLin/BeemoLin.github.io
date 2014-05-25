@@ -11,13 +11,11 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-## About me
+### 林建玄(Gen Lin)
 
-林建玄(Gen Lin)
 Asia/Taiwan
-<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
 
-### Gen Lin
+<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
 
 ### Expertise
 * C# winform Application Program
