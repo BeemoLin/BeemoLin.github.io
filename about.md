@@ -15,7 +15,7 @@ image:
 
 林建玄(Gen Lin)
 Asia/Taiwan
-<a href="http://github.com/{{ site.owne    r.github }}" class="author-social" target="_blank"><i class="icon    -github"></i> Github</a>
+<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
 
 ### Gen Lin
 
