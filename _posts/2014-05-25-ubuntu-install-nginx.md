@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to instll nginx on buntu
-description: ""
+description: "My machine OS version is ubuntu Server 14.04 LTS"
 modified: 2013-05-25
 tags: [nginx, server]
 comments: true
