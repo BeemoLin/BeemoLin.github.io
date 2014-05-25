@@ -19,9 +19,9 @@ apt-get install nginx
 {% endhighlight %}
 
 ## Notices
-####if you machine return error like this.
+if you machine return error like this.
 `add-apt-repository: command not found`
-####You must install apt plugin before you can add repository.
+You must install apt plugin before you can add repository.
 `sudo apt-get install software-properties-common`
 {: .notice}
 
