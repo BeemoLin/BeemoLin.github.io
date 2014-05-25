@@ -8,7 +8,7 @@ disqus_shortname: cameogen
 owner:
   name:           Gen Lin
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            "Do something interesting."
   email:          dteout@gmail.com
   email_md5:      cfcf6d9d0a8d4aa9164393386d939c58
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -36,14 +36,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About Me
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
