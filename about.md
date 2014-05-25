@@ -13,7 +13,7 @@ image:
 
 ### 林建玄(Gen Lin)
 
-* Asia/Taiwan
+* Taiwan/Taichung
 * <a href="http://github.com/{{ site.owner.github }}" target="_blank" style="text-decoration: none;"><i class="icon-github"></i> Github</a>
 
 ### Expertise
