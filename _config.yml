@@ -1,8 +1,6 @@
-title:            Gen's Blog
-description:      Welcome my blog.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://cameogen.github.io
-disqus_shortname:
+disqus_shortname: cameogen
 
 # Owner/author information
 owner:
@@ -10,7 +8,7 @@ owner:
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
   email:          dteout@gmail.com
-  email_md5:      cfcf6d9d0a8d4aa9164393386d939c58
+  email_md5:      cfcf6d9d0a8d4aa9164393386d939c58 #for Gravatar
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:       cameogen
