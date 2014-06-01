@@ -2,7 +2,7 @@
 layout: post
 title: use disqus in jekyll
 description: "How to setting jekyll disqus"
-modified: 2013-05-31
+modified: 2014-05-31
 tags: [post, jekyll]
 comments: true
 ---

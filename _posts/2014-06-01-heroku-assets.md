@@ -2,7 +2,7 @@
 layout: post
 title: Can't get CCS working on heroku
 description: "Can't get CCS working on heroku using Rails 4"
-modified: 2013-06-01
+modified: 2014-06-01
 tags: [nginx, server]
 comments: true
 ---
